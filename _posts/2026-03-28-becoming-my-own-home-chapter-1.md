@@ -9,7 +9,7 @@ categories: becoming-my-own-home
 
 This is the first chapter of my journey in becoming my own home.
 
-![Chapter 1 Image](/assets/images/becoming-my-own-home/chapter-1/image1.jpg)
+![Chapter 1 Image](/assets/images/becoming-my-own-home/chapter1.jpeg)
 
 ## Chapter 1: When It All Started
 
