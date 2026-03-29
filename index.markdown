@@ -1,5 +1,5 @@
 ---
 layout: home
-hero_image: /assets/images/hero.jpg
+hero_image: /assets/images/coverpic.jpeg
 ---
 
