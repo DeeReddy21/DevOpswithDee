@@ -6,7 +6,7 @@
 
 /* Custom styles for pretty background */
 body {
-  background-image: url('/DevOpswithDee/assets/images/coverpic.jpeg');
+  background-image: url('{{ "/assets/images/coverpic.jpeg" | relative_url }}');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -40,6 +40,9 @@ body {
   position: relative;
   width: 100%;
   height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
