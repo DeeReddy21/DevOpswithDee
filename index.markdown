@@ -5,9 +5,9 @@
 layout: home
 ---
 
-## Welcome to DevOps with Dee
+## Welcome to Becoming My Own Home
 
-Hi! I'm Dee, passionate about DevOps, writing, and fitness. This blog is where I share my experiences, tips, and insights on these topics.
+Hi! I'm Dee. This blog is where I share my personal journey of becoming my own home.
 
 ### Connect with me
 - [GitHub](https://github.com/{{ site.github_username }})
