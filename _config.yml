@@ -32,8 +32,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-header_pages:
-  - index.markdown
+# header_pages:
+#   - index.markdown
 
 instagram_username: your_instagram
 
