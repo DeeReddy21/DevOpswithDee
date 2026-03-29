@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Chapter 1: When It All Started "
+series_title: "Becoming My Own Home"
 date: 2026-03-28
 categories: becoming-my-own-home
 ---
