@@ -34,7 +34,6 @@ plugins:
 
 header_pages:
   - index.markdown
-  - about.markdown
 
 instagram_username: your_instagram
 
