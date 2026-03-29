@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When It All Started "
+title: "Chapter 1: When It All Started "
 date: 2026-03-28
 categories: becoming-my-own-home
 ---
@@ -10,7 +10,7 @@ This is the first chapter of my journey in becoming my own home.
 
 ![Chapter 1 Image]({{ site.baseurl }}/assets/images/becoming-my-own-home/chapter1.jpeg)
 
-## Chapter 1: When It All Started
+
 
 It was January last year when my roommate flew back to her home country for a 45-day vacation, leaving the apartment unusually quiet under the softest winter sun along with a bunch of plants for me to take care of. For the first time in a while, I had the space entirely to myself — no late-night conversations, no background music from the next room, just silence. And that silence was pretty awkward, as it was the first time I was living alone in a huge apartment. But as the days went by, I started to settle in, learning to enjoy my own company, noticing every single thing around me that I would have never noticed if I was not alone. It was altogether like cooking for one and finding comfort in the quiet.
 
