@@ -12,6 +12,12 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+        {%- assign words = post.content | split: " " | size -%}
+        {%- assign reading_time = words | divided_by: 200 -%}
+        {%- if reading_time == 0 -%}
+          {%- assign reading_time = 1 -%}
+        {%- endif -%}
+        <span class="post-meta">• {{ reading_time }} min read</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
