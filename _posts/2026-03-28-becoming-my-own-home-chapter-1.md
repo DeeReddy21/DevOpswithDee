@@ -29,6 +29,8 @@ A little bit about me — I am a girlie who does a vision board every year; it's
 - Don't forget to celebrate small wins
 - And this one is my favorite "Pamper yourself"
 
+<img src="{{ '/assets/images/becoming-my-own-home/self.jpeg' | relative_url }}" alt="Pamper yourself" style="max-width: 280px; width: 100%; height: auto; margin: 12px auto 20px; display: block;" />
+
 The moment I started to focus on my list I have noticed a major shift in my energy, well when I say "Energy" I meant the way you see and perceive things and situations, the type of people you attract, it did not happen overnight it was gradual. The way you look at things changes drastically and you stop looking at stuff with your judgy little eyes and start seeing the bigger picture and trust me not every time you have to react I'd say respond rather reacting.
 
 A few weeks later, I found myself sitting in a cozy café, my hands wrapped around a warm cup of latte. As I watched people hurry past outside, I glanced down at the list I'd written that quiet morning in my apartment and started wondering "this literally seems so simple and impossible at the same time". These few practices were supposed to change everything. Duh? Honestly, I had no idea how profoundly those simple practices would reshape my life. What started as intentions scribbled during a quiet winter morning was becoming the foundation of a future version of me.
